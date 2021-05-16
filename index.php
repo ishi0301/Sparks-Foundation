@@ -24,7 +24,7 @@
               <div class="col-sm-12 col-md">
                 <div class="heading text-center my-5">
                   <h3>Welcome to</h3>
-                  <h1>SWISS BANK</h1>
+                  <h1>SPARKS BANK</h1>
                 </div>
               </div>
               <div class="col-sm-12 col-md img text-center">
